@@ -40,4 +40,4 @@ To run the project locally:
 
 1. Download or clone the repository from GitHub:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/yourusername/JsNoteProject.git
